@@ -102,7 +102,7 @@ nav .menu li a:hover{
 .double-dot{
     width: 16px;
     height: 16px;
-    background: #8cecc4;
+    background: #9ef9d3;
     border-radius:8px;
     display: flex;
     align-items: center;
@@ -111,7 +111,7 @@ nav .menu li a:hover{
 .inner-dot{
     width: 12px;
     height: 12px;
-    background: #30B868;
+    background: #6bde9b;
     border-radius:8px;
     display: flex;
     align-items: center;
@@ -120,7 +120,7 @@ nav .menu li a:hover{
 .center-dot{
     width: 6px;
     height: 6px;
-    background: #1ba520;
+    background: #52cb56;
     border-radius:8px;
 }
 
@@ -199,13 +199,7 @@ nav .menu li a:hover{
     gap: 60px;
 }
 
-/* #solution .container {
-    max-width: 1200px;
-    margin: 0 auto;
-    display: flex;
-    align-items: center;
-    gap: 60px;
-} */
+
 
 #solution .sol-img {
     height: 60px;
@@ -312,7 +306,7 @@ nav .menu li a:hover{
 /*footer*/
 footer {
     background-color:#001931;
-    padding: 120px 0 30px 120px;
+    padding: 120px 120px 30px 120px;
     margin-top: 120px;
 }
 .footer-container {
