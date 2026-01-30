@@ -102,7 +102,7 @@ nav .menu li a:hover{
 .double-dot{
     width: 16px;
     height: 16px;
-    background: #9ef9d3;
+    background: #caeedf;
     border-radius:8px;
     display: flex;
     align-items: center;
@@ -111,7 +111,7 @@ nav .menu li a:hover{
 .inner-dot{
     width: 12px;
     height: 12px;
-    background: #6bde9b;
+    background: #91d8ae;
     border-radius:8px;
     display: flex;
     align-items: center;
@@ -120,7 +120,7 @@ nav .menu li a:hover{
 .center-dot{
     width: 6px;
     height: 6px;
-    background: #52cb56;
+    background: #5ec762;
     border-radius:8px;
 }
 
